@@ -1,5 +1,8 @@
 ## 351Noir 351ELEC Theme
 
+**All credits for MonsieurDaz!!** i only added missing themes as he don't have time and give me green light for doing it :)
+
+
 This is a modern **horizontal** theme based on [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir), that matches the 351ELEC black/white/red aesthetic and the RG351P handheld's resolution and aspect ratio.
 
 
